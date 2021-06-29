@@ -70,11 +70,11 @@ class Mainpage extends StatelessWidget {
                         ),
                         SizedBox(height: 30),
                         CircularPercentIndicator(
-                          backgroundWidth: 20,
+                         
                           radius: 300,
                           animation: true,
                           animationDuration: 10000,
-                          fillColor: Colors.red,
+                     
                           center: Text(
                             "80%",
                             style: TextStyle(color: whiteColor),
